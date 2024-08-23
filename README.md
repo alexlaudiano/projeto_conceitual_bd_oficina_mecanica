@@ -11,7 +11,10 @@ Este projeto apresenta o esquema conceitual de um sistema de controle e gerencia
 
 ## Contexto:
 
-Os clientes levam seus veículos à oficina para conserto ou revisão. Cada veículo é designado a uma equipe de mecânicos, que identifica os serviços necessários e preenche uma Ordem de Serviço (OS). A OS contém a descrição dos serviços e peças necessárias, bem como as datas de emissão e conclusão, e o valor total dos serviços. Cada serviço e peça têm um valor de referência, e o sistema permite que o cliente autorize a execução dos serviços antes de serem realizados.
+* Os clientes levam seus veículos à oficina para conserto ou revisão.
+* Cada veículo é designado a uma equipe de mecânicos, que identifica os serviços necessários e preenche uma Ordem de Serviço (OS).
+* A OS contém a descrição dos serviços e peças necessárias, bem como as datas de emissão e conclusão, e o valor total dos serviços.
+* Cada serviço e peça têm um valor de referência, e o sistema permite que o cliente autorize a execução dos serviços antes de serem realizados.
 
 ## Estrutura do Esquema Conceitual:
 
