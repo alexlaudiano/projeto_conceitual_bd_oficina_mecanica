@@ -42,3 +42,31 @@ Este projeto apresenta o esquema conceitual de um sistema de controle e gerencia
 ## Pontos Adicionais:
 
 Qualquer aspecto que não tenha sido especificado diretamente na narrativa foi inferido com base em práticas comuns de gerenciamento de oficinas mecânicas. As descrições e relacionamentos propostos no esquema conceitual visam garantir que o sistema seja robusto e flexível o suficiente para atender às necessidades de uma oficina real.
+
+## Tecnologias Utilizadas
+
+* MySQL Workbench
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch com a sua feature: `git checkout -b minha-feature`
+3. Commit suas mudanças: `git commit -m 'Minha nova feature'`
+4. Faça um push para a branch: `git push origin minha-feature`
+5. Abra um Pull Request
+
+## Realizado por
+
+* Alex Laudiano
+
+Para mais informações, entre em contato:
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laudiano/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-373737?style=flat&logo=Gmail&logoColor=white)](mailto:laudiano@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laudianoalex/?hl=pt-br)
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
