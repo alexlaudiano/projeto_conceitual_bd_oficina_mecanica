@@ -13,6 +13,7 @@
 :small_blue_diamond: [Contexto](#contexto)
 :small_blue_diamond: [Estrutura do Esquema Conceitual](#estrutura-do-esquema-conceitual)
 :small_blue_diamond: [Pontos Adicionais](#pontos-adicionais)
+
 :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
 :small_blue_diamond: [Contribuição](#contribuição)
 :small_blue_diamond: [Realizado por](#realizado-por)
