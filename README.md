@@ -14,6 +14,7 @@
 :small_blue_diamond: [Estrutura do Esquema Conceitual](#estrutura-do-esquema-conceitual)
 :small_blue_diamond: [Pontos Adicionais](#pontos-adicionais)
 
+:small_blue_diamond: [Imagem do Modelo](#imagem-do-modelo)
 :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
 :small_blue_diamond: [Contribuição](#contribuição)
 :small_blue_diamond: [Realizado por](#realizado-por)
@@ -43,6 +44,11 @@ Este projeto apresenta o esquema conceitual de um sistema de controle e gerencia
 ## Pontos Adicionais:
 
 Qualquer aspecto que não tenha sido especificado diretamente na narrativa foi inferido com base em práticas comuns de gerenciamento de oficinas mecânicas. As descrições e relacionamentos propostos no esquema conceitual visam garantir que o sistema seja robusto e flexível o suficiente para atender às necessidades de uma oficina real.
+
+## Imagem do Modelo
+
+![cenario_oficina_mecanica](https://github.com/user-attachments/assets/113bfb54-97d7-4c1d-bfe3-3e94ae0eb995)
+
 
 ## Tecnologias Utilizadas
 
