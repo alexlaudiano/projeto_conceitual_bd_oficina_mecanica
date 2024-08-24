@@ -47,8 +47,7 @@ Qualquer aspecto que não tenha sido especificado diretamente na narrativa foi i
 
 ## Imagem do Modelo
 
-![cenario_oficina_mecanica](https://github.com/user-attachments/assets/113bfb54-97d7-4c1d-bfe3-3e94ae0eb995)
-
+![cenario_oficina_mecanica](https://github.com/user-attachments/assets/cfd5a7c4-20e9-4dca-99d1-6b4f8827cf5b)
 
 ## Tecnologias Utilizadas
 
